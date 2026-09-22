@@ -1,4 +1,6 @@
-# TP4 — Introduction à React (mur d'images)
+# react-mur-images — Introduction à React (mur d'images)
+
+*(TP4 de l'UE JavaScript)*
 
 TP de reprise du "mur d'images" du TP1, cette fois avec **React**, via une chaîne de build **Webpack + Babel**.
 
